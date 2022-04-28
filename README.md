@@ -1,6 +1,8 @@
 # HyoGeun Kim
 
 I'm **HyoGeun Kim** in **Seoultech**.<p>
+
+### 🔥Interest 
 Interest : Computer Vision, Machine Learning, Algorithm
 
 ### 🧑‍💻 Studying
