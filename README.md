@@ -12,7 +12,7 @@ Interest : Computer Vision, Machine Learning, Algorithm
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white"/>
 
   
-[![trophy](https://github-profile-trophy.vercel.app/?username=Higeuni)](https://github.com/Higeuni/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Higeuni&row=2&column=3)](https://github.com/Higeuni/github-profile-trophy)<p>
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=higeuni&c=c)](https://solved.ac/higeuni)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=higeuni&layout=compact)
 ![HyoGeun's github stats](https://github-readme-stats.vercel.app/api?username=higeuni&show_icons=true) 
