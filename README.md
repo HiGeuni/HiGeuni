@@ -3,7 +3,7 @@
 I'm **HyoGeun Kim** in **Seoultech**.<p>
 
 ### 🔥 Interest 
-Interest : Front-end, Computer Vision, Machine Learning, Algorithm, Backend
+Interest : **Front-end**, Computer Vision, Machine Learning, Algorithm, Backend
 
 ### 🧑‍💻 Studying
 **Language & Framework**<p>
