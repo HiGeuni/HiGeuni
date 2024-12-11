@@ -3,7 +3,16 @@
 I'm **HyoGeun Kim**<p>
 
 ### 🔥 Interest 
-Interest : **Front-end**, Computer Vision, Machine Learning, Algorithm, Backend
+Interest : **Front-end**, Algorithm, Backend
+
+### 🎖️ Experience
+Seoul National University of Science and Technology, Computer Engineering and Science Bachelor (2018.03 ~ 2024.02) <br />
+ACM-ICPC Seoul Regional Honarable Mention (2018.11)<br />
+GDSC Seoultech 2nd member (2022.09 ~ 2023.04)<br />
+Software Maestro 14th (2023.04 ~ 2023.11)<br />
+
+### 💼 Work
+Daqda FE engineer (2024.06 ~ now)
 
 ### 🧑‍💻 Studying
 **Language & Framework**<p>
@@ -24,8 +33,4 @@ Interest : **Front-end**, Computer Vision, Machine Learning, Algorithm, Backend
   
   
 
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Higeuni&row=2&column=3)](https://github.com/Higeuni/github-profile-trophy)<p>
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=higeuni&c=c)](https://solved.ac/higeuni)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=higeuni&layout=compact)
-![HyoGeun's github stats](https://github-readme-stats.vercel.app/api?username=higeuni&show_icons=true) 
